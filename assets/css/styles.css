@@ -597,7 +597,7 @@ img {
   background-color: transparent;
   padding: 30px;
   border-radius: 15px;
-  margin-top: -30px;
+  margin-top: -15px;
   backdrop-filter: blur(10px); /* Adds a blurred effect to the background */
   -webkit-backdrop-filter: blur(10px); /* Support for WebKit browsers */
   border: 1px solid rgba(255, 255, 255, 0.4); /* A subtle border to enhance the semi-transparent look */
