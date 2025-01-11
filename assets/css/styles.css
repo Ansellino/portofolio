@@ -339,7 +339,7 @@ img {
 /* Skills Section */
 .skills {
   padding: 4rem 2rem;
-  background-image: linear-gradient(to right top, #ffffff, #cacaca, #979797, #676767, #3b3b3b, #302c31, #281c23, #220c12, #350e19, #490d1f, #5e0924, #740027);
+  background: linear-gradient(to right bottom, black 50%, #111325 50%);
   background-position: center;
   background-size: cover;
   overflow: hidden;
@@ -512,7 +512,7 @@ img {
 }
 /* ===== PROJECT ===== */
 .project {
-  background-image: linear-gradient(to right top, #ffffff, #cacaca, #979797, #676767, #3b3b3b, #302c31, #281c23, #220c12, #350e19, #490d1f, #5e0924, #740027);
+  background: linear-gradient(to left bottom, #111325 50%, black  50%);
   background-position: center;
   background-size: cover;
   overflow: hidden;
