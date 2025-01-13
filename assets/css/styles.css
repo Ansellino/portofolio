@@ -322,7 +322,7 @@ img {
 }
 
 .about{
-  background-image: url("../img/108813-681686688_small-ezgif.com-optimize.gif");
+  background: linear-gradient(to left bottom, white 50%, black  50%);
   background-position: center;
   background-size: cover;
   overflow: hidden;
